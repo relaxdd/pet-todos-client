@@ -1,0 +1,16 @@
+.test-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.form-error {
+  color: #dc3545;
+  font-size: 14px;
+}
+
+.form-success {
+  color: #198754;
+  font-size: 14px;
+}
